@@ -2,7 +2,7 @@
 
 An **end-to-end object detection system** using **DETR (facebook/detr-resnet-50)** to detect and annotate **bone fractures** from medical X-ray images. The project leverages PyTorch Lightning, Hugging Face Transformers, and Supervision for dataset preprocessing, model training, and high-precision inference.
 
-![output](donwload.png)
+![output](download.png)
 
 ---
 
